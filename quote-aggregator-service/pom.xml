@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <kotlin.version>1.5.20</kotlin.version>
+        <kotlin.version>1.5.21</kotlin.version>
 
         <!-- rest-assured -->
         <groovy.version>3.0.7</groovy.version>
